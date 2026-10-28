@@ -1,10 +1,10 @@
 # GetAJob.video
 
-Turn one photo into the viral "Get a Job" meme clip with a fixed template.
+Turn one photo into the viral Get a Job meme clip with a fixed template.
 
 ## Links
 
-- [GetAJob.video — Workspace/Image To Video](https://getajob.video/workspace/image-to-video)
+- [image to video workspace](https://getajob.video/workspace/image-to-video)
 
 - [Main site](https://getajob.video/)
 
